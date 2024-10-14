@@ -1,0 +1,8 @@
+# Ignore the chromedriver subfolder
+chromedriver/
+
+# Ignore the __pycache__ folder in the src directory
+src/__pycache__/
+
+# Ignore the specific file in the theory directory
+theory/process' pipeline.drawio
